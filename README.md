@@ -69,10 +69,11 @@ ________________________________________________________________________________
 | **Random Forest** | **~0.90** | **0.89** | **0.87** | **0.88** | **0.93** |
 | KNN | ~0.84 | 0.80 | 0.83 | 0.81 | 0.87 |
 
-🔹 **Random Forest** delivered the best performance — offering strong generalization and interpretability through feature importance.  
-🔹 Key predictors included **income**, **loan amount**, **interest rate**, and **credit utilization ratio**.
+- **Random Forest** delivered the best performance — offering strong generalization and interpretability through feature importance.
+- Key predictors included **income**, **loan amount**, **interest rate**, and **credit utilization ratio**.
 
 __________________________________________________________________________________________________________________
+
 
 ## Future Improvements
 
